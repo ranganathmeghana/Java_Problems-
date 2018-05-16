@@ -1,0 +1,14 @@
+#chlamydia 9
+#cholecystectomy 8
+#chlorophoneus 7
+#chondritic 6
+#chloride 5#chlorambucil 4
+#chlortetracycline 3
+#chlamydeous 2
+#chloroform 13#chlamydia 1
+#cholecystectomy 2
+#chlorophoneus 1
+#chondritic 1
+#chloride 2#chlorambucil 1
+#chlortetracycline 2
+STOP
